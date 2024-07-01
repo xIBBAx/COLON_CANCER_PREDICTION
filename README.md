@@ -1,6 +1,3 @@
-Certainly! Here's the revised text focusing on copyright:
-
----
 
 **Colon Cancer Prediction Model**
 
